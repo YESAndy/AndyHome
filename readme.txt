@@ -1,4 +1,4 @@
-Techro: Free business/corporate Bootstrap responsive template
+This is Andy's Homepage
 -------
 Atlanta is a free, responsive, modern-looking business template based on Bootstrap HTML/CSS framework. 
 
